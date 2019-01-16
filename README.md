@@ -6,3 +6,5 @@ He anat fent els tutorials de l'1 al 12 que hi ha a http://wiki.ros.org/ROS/Tuto
 Qüestions a anotar:
 
 ·Al treballar des del Windows Subsystem for Linux (treballo des de Windows directament a partir d'una aplicació de windows) he hagut de seguir els passos que hi ha a https://janbernloehr.de/2017/06/10/ros-windows.
+
+Al final estic treballant directament amb linux i no hi ha hagut cap problema a anotar.
